@@ -2,6 +2,7 @@
 
 // chiedere nome utente
 
+
 let nomeUtente = prompt("inserisci il tuo nome");
 console.log(nomeUtente)
 
